@@ -1,5 +1,7 @@
 # Neural cell types and circuits for vocal learning
 
+My post-doctoral research used comparative high-throughput transcriptomics to understand how the brain produces complex, learned behaviors like speech and language. These projects were the first to implement single-cell RNA sequencing in songbirds, establishing a template for the field from molecular to computational components, and the results have broad implications for understanding the genetic toolkits that neurons and circuits use to perform advanced computations.
+
 # `pallium`
 
 Single-cell transcriptomics in the songbird pallium as published in:
